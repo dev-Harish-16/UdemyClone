@@ -9,3 +9,15 @@ h2{
     font-family: SuisseWorks, Georgia, Times, times new roman, serif, apple color emoji, segoe ui emoji, segoe ui symbol;
     font-weight: 700;
 }
+
+.navbar-nav .nav-item{
+
+    padding: 0px 8px;
+}
+@media only screen and (min-width:1024px) {
+    #form--input{
+        width:400px !important;
+    }
+}
+
+

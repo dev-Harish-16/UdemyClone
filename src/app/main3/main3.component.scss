@@ -22,3 +22,9 @@ li {
     font-size: 3rem;
     color: blueviolet
 }
+
+@media only screen and (max-width: 768px) {
+  #instructor2,#instructor,#udemy,#transform{
+    width: 100%;
+  }
+}
